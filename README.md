@@ -12,11 +12,13 @@
 
 </div>
 
-```
-## สนใจติดต่อได้ที่: 
+---
+
+
+## ติดต่อได้ที่: 
    - Telegram: https://t.me/HTE4M
    - GitHub: https://github.com/HTE4M
-```
+
 
 ---
 
