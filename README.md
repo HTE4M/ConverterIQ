@@ -3,15 +3,7 @@
 ```
  ⬡  ConverterIQ
 ```
-</div>
-<div align="left">
-```
- สนใจติดต่อได้ที่: 
-   - Telegram: https://t.me/HTE4M
-   - GitHub: https://github.com/HTE4M
-```
-</div>
-<div align="center">
+
 # ConverterIQ
 ### แปลงไฟล์ iQIYI QSV เป็น MP4 พร้อมซับไตเติ้ล · แบบ Batch · โดย HTE4M
 
@@ -19,6 +11,12 @@
 
 
 </div>
+
+```
+ สนใจติดต่อได้ที่: 
+   - Telegram: https://t.me/HTE4M
+   - GitHub: https://github.com/HTE4M
+```
 
 ---
 
