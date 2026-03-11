@@ -7,7 +7,8 @@
 # ConverterIQ
 ### แปลงไฟล์ iQIYI QSV เป็น MP4 พร้อมซับไตเติ้ล โดย HTE4M
 
-[![Version](https://raw.githubusercontent.com/HTE4M/ConverterIQ/refs/heads/main/Screenshot.png)](https://github.com/HTE4M/ConverterIQ)
+[![Version310](https://raw.githubusercontent.com/HTE4M/ConverterIQ/refs/heads/main/Screenshot1.png)](https://github.com/HTE4M/ConverterIQ)
+[![Version310](https://raw.githubusercontent.com/HTE4M/ConverterIQ/refs/heads/main/Screenshot2.png)](https://github.com/HTE4M/ConverterIQ)
 
 
 </div>
