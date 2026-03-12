@@ -7,8 +7,9 @@
 # ConverterIQ
 ### แปลงไฟล์ iQIYI QSV เป็น MP4 พร้อมซับไตเติ้ล โดย HTE4M
 
-[![Version310](https://raw.githubusercontent.com/HTE4M/ConverterIQ/refs/heads/main/Screenshot1.png)](https://github.com/HTE4M/ConverterIQ)
-[![Version310](https://raw.githubusercontent.com/HTE4M/ConverterIQ/refs/heads/main/Screenshot2.png)](https://github.com/HTE4M/ConverterIQ)
+[![Version320](https://raw.githubusercontent.com/HTE4M/ConverterIQ/refs/heads/main/Screenshot0.png)](https://github.com/HTE4M/ConverterIQ)
+[![Version320](https://raw.githubusercontent.com/HTE4M/ConverterIQ/refs/heads/main/Screenshot1.png)](https://github.com/HTE4M/ConverterIQ)
+[![Version320](https://raw.githubusercontent.com/HTE4M/ConverterIQ/refs/heads/main/Screenshot2.png)](https://github.com/HTE4M/ConverterIQ)
 
 
 </div>
@@ -92,6 +93,16 @@
   ```
 
 - 
+---
+
+## 🔐 ระบบ Login
+
+โปรแกรมต้องการ **บัญชีผู้ใช้** เพื่อใช้งาน — ติดต่อขอบัญชีได้ที่ Telegram
+
+- 1 บัญชี ใช้ได้ 1 เครื่องเท่านั้น (ป้องกันการแชร์)
+- บัญชีมีวันหมดอายุ — โปรแกรมแจ้งเตือนล่วงหน้าเมื่อใกล้หมด
+- Session จะถูกตรวจสอบทุกครั้งที่เปิดโปรแกรม
+
 ---
 
 ## วิธีใช้
